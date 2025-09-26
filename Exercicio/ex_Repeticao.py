@@ -1,10 +1,10 @@
 # %% - Use um loop para imprimir os números de 1 a 7.
 
-for x in range(1,8):
+for x in range(1,11):
     print(x)
 
 
-# %% - Use um loop para fazer uma contagem regressiva de 5 até 1, imprimindo cada número.
+    # %% - Use um loop para fazer uma contagem regressiva de 5 até 1, imprimindo cada número.
 
 for x in range(5,0,-1):
     print(x)

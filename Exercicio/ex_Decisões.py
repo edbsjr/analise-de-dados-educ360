@@ -13,7 +13,7 @@ horario = input("Digite o horario que estuda ('M' para manhã, 'N' para noite) :
 
 if horario == "M":
     print("Bom dia!")
-elif horario == "N":
+else:
     print("Boa noite!")
 
 # %% - Peça ao usuário para digitar uma temperatura em Celsius.
@@ -38,10 +38,11 @@ else:
 
 numero = int(input("Digite um número inteiro : "))
 
-if numero % 2 == 0 and numero > 10:
-    print(f"Numero {numero} é par e grande")
-elif numero % 2 == 0 and numero <= 10:
-    print(f"Numero {numero} é par e pequeno")
+if numero % 2 == 0:
+    if numero > 10:
+        print(f"Numero {numero} é par e grande")
+    else:
+        print(f"Numero {numero} é par e pequeno")
 else:
     print(f"Numero {numero} é impar")
 
