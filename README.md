@@ -8,29 +8,29 @@ O objetivo é registrar meu progresso, aplicar os conceitos aprendidos e servir 
 ### Conteudo
 
 * **Excel Dashboard**
-Planilhas base das aulasArquivo
-Aula 1- Estatistica BasicaPágina
-Mapa de CalorPágina
-PROCVPágina
-Tratamento de dadosPágina
-Tabela DinamicaPágina
-Primeiro dashboard - Parte 1Página
-Primeiro dashboard - Parte 2Página
-Outro exemplo de dashboardPágina
+Planilhas base das aulas
+Aula 1- Estatistica Basica
+Mapa de Calor
+PROCV
+Tratamento de dados
+Tabela Dinamica
+Primeiro dashboard - Parte 1
+Primeiro dashboard - Parte 2
+Outro exemplo de dashboard
 Fixação de Conteudo - Excel Dashboard
 
 * **Analise de Dados**
-Aula 1 - Introducao a Analise de DadosPágina
-Análise DescritivaPágina
-Análise DiagnosticaPágina
-Análise ExploratoriaPágina
-Análise PreditivaPágina
-Análise PrescritivaPágina
+Aula 1 - Introducao a Analise de Dados
+Análise Descritiva
+Análise Diagnostica
+Análise Exploratoria
+Análise Preditiva
+Análise Prescritiva
 Tipos de Variaveis
 
 * **Linguagem Python - Semana 1**
 AMBIENTE ONLINE para TESTAR PYTHON.
-Introduçao / HistoriaPágina
+Introduçao / Historia
 Instalando Python
 Instalando Extensoes
 Operadores
