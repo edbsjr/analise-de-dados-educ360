@@ -26,10 +26,16 @@ def calc_total(plista:list)->float:
     """
     rtotal = 0
     for linha in plista[1:]:
-        rtotal = rtotal + float(linha[2])
-    return rtotal
+        try:
+            linha[2] = float(linha[2])
+        except ValueError:
+            # Se a conversão falhar (dado sujo/vazio), usa 0.0 no lugar
+            linha[2] = 0.0
+            print(f"ATENÇÃO: Valor inválido encontrado '{linha[2]}' na linha. Usando 0.0.")
+            
+        rtotal += linha[2] 
 
-caminho = "vendas.txt"
+    return rtotal
 
 def imprimir_resultado(plista, ptotal):
     """
@@ -41,14 +47,13 @@ def imprimir_resultado(plista, ptotal):
     print(f"{cabecalho[0]:13} {cabecalho[1]:15} {cabecalho[2]:12}")
     print ("-----------------------------------------------------")
     for linha in plista[1:]:    
-        valor = float(linha[2])
-        print(f"{linha[0]:13} {linha[1]:15} R$ {linha[2]:12}")
+        print(f"{linha[0]:13} {linha[1]:15} R$ {linha[2]:12.2f}")
     print ("-----------------------------------------------------")
 
     print(f"TOTAL GERAL                   R$ {ptotal:.2f}")
     print ("=====================================================")
 
-
+caminho = "vendas.txt"
 lista_vendas = ler_arquivo(caminho)
 valor_total = calc_total(lista_vendas)
 imprimir_resultado(lista_vendas, valor_total)
