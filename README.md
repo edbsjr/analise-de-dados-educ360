@@ -7,59 +7,59 @@ O objetivo é registrar meu progresso, aplicar os conceitos aprendidos e servir 
 ---
 ### Conteudo
 
-* **Excel Dashboard**
-Planilhas base das aulas
-Aula 1- Estatistica Basica
-Mapa de Calor
-PROCV
-Tratamento de dados
-Tabela Dinamica
-Primeiro dashboard - Parte 1
-Primeiro dashboard - Parte 2
-Outro exemplo de dashboard
-Fixação de Conteudo - Excel Dashboard
+- * **Excel Dashboard**
+- Planilhas base das aulas
+- Aula 1- Estatistica Basica
+- Mapa de Calor
+- PROCV
+- Tratamento de dados
+- Tabela Dinamica
+- Primeiro dashboard - Parte 1
+- Primeiro dashboard - Parte 2
+- Outro exemplo de dashboard
+- Fixação de Conteudo - Excel Dashboard
 
-* **Analise de Dados**
-Aula 1 - Introducao a Analise de Dados
-Análise Descritiva
-Análise Diagnostica
-Análise Exploratoria
-Análise Preditiva
-Análise Prescritiva
-Tipos de Variaveis
+- * **Analise de Dados**
+- Aula 1 - Introducao a Analise de Dados
+- Análise Descritiva
+- Análise Diagnostica
+- Análise Exploratoria
+- Análise Preditiva
+- Análise Prescritiva
+- Tipos de Variaveis
 
-* **Linguagem Python - Semana 1**
-AMBIENTE ONLINE para TESTAR PYTHON.
-Introduçao / Historia
-Instalando Python
-Instalando Extensoes
-Operadores
-Variaveis
-Booleano
-Decisões
-Repeticoes - Enquanto
-Repeticoes - Para
-Repeticoes - True STRING
-Proposta de Exercicios
+- * **Linguagem Python - Semana 1**
+- AMBIENTE ONLINE para TESTAR PYTHON.
+- Introduçao / Historia
+- Instalando Python
+- Instalando Extensoes
+- Operadores
+- Variaveis
+- Booleano
+- Decisões
+- Repeticoes - Enquanto
+- Repeticoes - Para
+- Repeticoes - True STRING
+- Proposta de Exercicios
 
-* **Linguagem Python - Semana 2**
-Trabalhando com Listas
-SubListas, Append,Insert
-Slices de Listas
-Split de Listas
-Modulos
-Dicionarios
-Exercicios - Dicionarios
-Tuplas
-Proposta de Exercicios
+- * **Linguagem Python - Semana 2**
+- Trabalhando com Listas
+- SubListas, Append,Insert
+- Slices de Listas
+- Split de Listas
+- Modulos
+- Dicionarios
+- Exercicios - Dicionarios
+- Tuplas
+- Proposta de Exercicios
 
-* **Linguagem Python - Semana 3**
-Funcoes
-Funcoes - Parte 2
-TryExcept
-Lendo e gravando em arquivos
-Exercicios - Arquivos
-Lendo linhas do arquivo
+- * **Linguagem Python - Semana 3**
+- Funcoes
+- Funcoes - Parte 2
+- TryExcept
+- Lendo e gravando em arquivos
+- Exercicios - Arquivos
+- Lendo linhas do arquivo
 
 ---
 
