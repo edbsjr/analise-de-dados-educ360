@@ -1,0 +1,6 @@
+1.Obter dados dos alunos via csv.
+2.Fazer tratamento(nulos,colunas).
+3.Gerar dados para montar graficos(Barra,Pizza,Linha)
+3.1.Número de alunos por curso(Barra)
+3.2.Distribuição por desempenho(Pizza)
+3.3.Frequencia das notas por curso(Linha)

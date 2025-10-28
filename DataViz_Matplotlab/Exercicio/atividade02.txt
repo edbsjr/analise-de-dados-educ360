@@ -1,0 +1,17 @@
+Você recebeu um arquivo pacientes_clinica.csv com dados de pacientes de uma
+clínica de saúde.
+O arquivo contém valores nulos e informações de idade, peso, pressão arterial e
+nível de glicose.
+Seu objetivo é:
+1. Ler o arquivo CSV.
+2. Tratar os valores nulos de forma adequada.
+3. Gerar os seguintes gráficos usando apenas matplotlib:
+o Barras: média de glicose por faixa etária.
+o Pizza: proporção de pacientes por gênero.
+o Linhas: evolução média da pressão arterial por mês.
+Resultado esperado
+• Faixas etárias mais altas tendem a apresentar glicose média maior.
+• A distribuição de gênero é visualizada de forma clara no gráfico de pizza.
+• O gráfico de linha permite acompanhar possíveis tendências mensais na
+pressão arterial média.
+https://raw.githubusercontent.com/profivan-ai/cdb-Python/refs/heads/main/arquivos/pacientes.csv

@@ -1,0 +1,17 @@
+Atividade 1
+Você recebeu um arquivo vendas_loja.csv com informações de vendas de uma loja.
+O arquivo contém valores nulos e inconsistências em algumas colunas.
+Seu objetivo é:
+1. Ler o arquivo CSV.
+2. Tratar os valores nulos (preencher, remover ou substituir de forma lógica (trocar
+por média ,zero ou string ? você decide ).
+3. Gerar três gráficos usando somente matplotlib:
+o Gráfico de Barras mostrando o total de vendas por categoria.
+o Gráfico de Pizza mostrando a proporção de vendas por região.
+o Gráfico de Linhas mostrando a evolução das vendas ao longo dos meses.
+Resultado Esperado
+• O gráfico de barras mostra quais categorias geram mais receita.
+• O gráfico de pizza revela a distribuição de vendas por região.
+• O gráfico de linhas mostra tendências mensais, úteis para entender a
+sazonalidade.
+https://raw.githubusercontent.com/profivan-ai/cdb-Python/refs/heads/main/arquivos/vendas_loja.csv
