@@ -1,0 +1,14 @@
+# --- Segurança ---
+.env
+
+# --- Lixo do Python ---
+__pycache__/
+*.pyc
+
+# --- Configurações do VS Code ---
+.vscode/
+
+# --- Banco de Dados SQLite ---
+*.db
+*.db-journal
+*.sqlite3
