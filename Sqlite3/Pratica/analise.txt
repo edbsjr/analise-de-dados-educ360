@@ -1,0 +1,3 @@
+Gabriel Oliveira,gabriel.oliveira@uol.com.br,Java,54
+Rafaela Carvalho,rafaela.carvalho@gmail.com,SQL,22
+Igor Souza,igor.souza@icloud.com,HTML,45
